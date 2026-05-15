@@ -1,2 +1,6 @@
 # instituto-omnes-main
-Monolith arch :)
+
+## TODO:
+1. Frontend landing page.
+2. Test
+3. Deploy using Vercel
