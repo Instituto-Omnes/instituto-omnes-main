@@ -206,7 +206,7 @@ export default function About() {
                   alt="Laura"
                   className="
                     w-full
-                    h-[420px]
+                    h-105
                     object-cover
                     grayscale
                   "
@@ -238,7 +238,7 @@ export default function About() {
                   alt="Victoria"
                   className="
                     w-full
-                    h-[420px]
+                    h-105
                     object-cover
                     grayscale
                   "
@@ -270,7 +270,7 @@ export default function About() {
                   alt="Pedro"
                   className="
                     w-full
-                    h-[420px]
+                    h-105
                     object-cover
                     grayscale
                   "
